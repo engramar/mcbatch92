@@ -30,6 +30,26 @@ export const photos = [
       height: 3.8 
     },                    
     {
+      src: "/img/rizal0.jpg",
+      width: 5,
+      height: 3.5 
+    },                    
+    {
+      src: "/img/rizal2.jpg",
+      width: 5,
+      height: 3.5 
+    },                    
+    {
+      src: "/img/rizal3.jpg",
+      width: 3.5,
+      height: 2 
+    },                    
+    {
+      src: "/img/rizal1.jpg",
+      width: 5,
+      height: 3.5 
+    },                    
+    {
       src: "/img/logo.jpg",
       width: 1,
       height: 1 
@@ -59,6 +79,11 @@ export const photos = [
       width: 2.9,
       height: 3.8 
     },        
+    {
+      src: "/img/mabini1.jpg",
+      width: 5,
+      height: 3.5 
+    },      
     {
       src: "/img/logo.jpg",
       width: 1,
@@ -134,6 +159,16 @@ export const photos = [
       width: 2.9,
       height: 3.8 
     },             
+    {
+      src: "/img/delpilar1.jpg",
+      width: 1,
+      height: 1 
+    },         
+    {
+      src: "/img/delpilar2.jpg",
+      width: 1,
+      height: 1 
+    },      
     {
       src: "/img/logo.jpg",
       width: 1,
