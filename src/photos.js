@@ -38,7 +38,12 @@ export const photos = [
       src: "/img/rizal3.jpg",
       width: 3.5,
       height: 2 
-    },                    
+    },          
+    {
+      src: "/img/rizal-pandemic.jpg",
+      width: 2,
+      height: 1.8 
+    },                        
     {
       src: "/img/rizal1.jpg",
       width: 5,
