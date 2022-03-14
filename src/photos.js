@@ -75,11 +75,6 @@ export const photos = [
       height: 3.8 
     },        
     {
-      src: "/img/mabini1.jpg",
-      width: 5,
-      height: 3.5 
-    },      
-    {
       src: "/img/logo.jpg",
       width: 1,
       height: 1 
