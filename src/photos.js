@@ -1,6 +1,6 @@
 export const photos = [
     {
-      src: "/img/logo.png",
+      src: "/img/logo.jpg",
       width: 1,
       height: 1 
     },
@@ -10,7 +10,7 @@ export const photos = [
       height: 3
     },    
     {
-      src: "/img/logo.png",
+      src: "/img/logo.jpg",
       width: 1,
       height: 1 
     },    
@@ -20,17 +20,17 @@ export const photos = [
       height: 3.8 
     },                    
     {
-      src: "/img/rizal-mam-belen.png",
+      src: "/img/rizal-mam-belen.jpg",
       width: 2.9,
       height: 3.8 
     },                    
     {
-      src: "/img/rizal-sir-poli.png",
+      src: "/img/rizal-sir-poli.jpg",
       width: 2.9,
       height: 3.8 
     },                    
     {
-      src: "/img/logo.png",
+      src: "/img/logo.jpg",
       width: 1,
       height: 1 
     },    
@@ -40,12 +40,12 @@ export const photos = [
       height: 3.8 
     },    
     {
-      src: "/img/bonifacio-mam-legaspi.png",
+      src: "/img/bonifacio-mam-legaspi.jpg",
       width: 2.9,
       height: 3.8 
     },        
     {
-      src: "/img/logo.png",
+      src: "/img/logo.jpg",
       width: 1,
       height: 1 
     },    
@@ -55,12 +55,12 @@ export const photos = [
       height: 3.8 
     },    
     {
-      src: "/img/mabini-mam-orante.png",
+      src: "/img/mabini-mam-orante.jpg",
       width: 2.9,
       height: 3.8 
     },        
     {
-      src: "/img/logo.png",
+      src: "/img/logo.jpg",
       width: 1,
       height: 1 
     },    
@@ -70,12 +70,12 @@ export const photos = [
       height: 3.8 
     },    
     {
-      src: "/img/plaridel-mam-pagsanjan.png",
+      src: "/img/plaridel-mam-pagsanjan.jpg",
       width: 2.9,
       height: 3.8 
     },            
     {
-      src: "/img/logo.png",
+      src: "/img/logo.jpg",
       width: 1,
       height: 1 
     },    
@@ -85,12 +85,12 @@ export const photos = [
       height: 3.8 
     },    
     {
-      src: "/img/gomburza-mam-jacinto.png",
+      src: "/img/gomburza-mam-jacinto.jpg",
       width: 2.9,
       height: 3.8 
     },        
     {
-      src: "/img/logo.png",
+      src: "/img/logo.jpg",
       width: 1,
       height: 1 
     },    
@@ -100,12 +100,12 @@ export const photos = [
       height: 3.8 
     },    
     {
-      src: "/img/quezon-mam-arellano.png",
+      src: "/img/quezon-mam-arellano.jpg",
       width: 2.9,
       height: 3.8 
     },       
     {
-      src: "/img/logo.png",
+      src: "/img/logo.jpg",
       width: 1,
       height: 1 
     },    
@@ -115,12 +115,12 @@ export const photos = [
       height: 3.8 
     },    
     {
-      src: "/img/balagtas-mam-cristobal.png",
+      src: "/img/balagtas-mam-cristobal.jpg",
       width: 2.9,
       height: 3.8 
     },         
     {
-      src: "/img/logo.png",
+      src: "/img/logo.jpg",
       width: 1,
       height: 1 
     },    
@@ -130,12 +130,12 @@ export const photos = [
       height: 3.8 
     },    
     {
-      src: "/img/delpilar-mam-hilario.png",
+      src: "/img/delpilar-mam-hilario.jpg",
       width: 2.9,
       height: 3.8 
     },             
     {
-      src: "/img/logo.png",
+      src: "/img/logo.jpg",
       width: 1,
       height: 1 
     },    
@@ -145,7 +145,7 @@ export const photos = [
       height: 3.8 
     },    
     {
-      src: "/img/logo.png",
+      src: "/img/logo.jpg",
       width: 1,
       height: 1 
     },    
@@ -155,12 +155,12 @@ export const photos = [
       height: 3.8 
     },    
     {
-      src: "/img/jaena-mam-porca.png",
+      src: "/img/jaena-mam-porca.jpg",
       width: 2.9,
       height: 3.8 
     },            
     {
-      src: "/img/logo.png",
+      src: "/img/logo.jpg",
       width: 1,
       height: 1 
     },    
@@ -170,12 +170,12 @@ export const photos = [
       height: 3.8 
     },    
     {
-      src: "/img/malvar-mam-feliciano.png",
+      src: "/img/malvar-mam-feliciano.jpg",
       width: 2.9,
       height: 3.8 
     },        
     {
-      src: "/img/logo.png",
+      src: "/img/logo.jpg",
       width: 1,
       height: 1 
     },    
@@ -185,12 +185,12 @@ export const photos = [
       height: 3.8 
     },    
     {
-      src: "/img/aquino-mam-ilacas.png",
+      src: "/img/aquino-mam-ilacas.jpg",
       width: 2.9,
       height: 3.8 
     },     
     {
-      src: "/img/logo.png",
+      src: "/img/logo.jpg",
       width: 1,
       height: 1 
     },    
@@ -200,12 +200,12 @@ export const photos = [
       height: 3.8 
     },    
     {
-      src: "/img/recto-mam-soriente.png",
+      src: "/img/recto-mam-soriente.jpg",
       width: 2.9,
       height: 3.8 
     },        
     {
-      src: "/img/logo.png",
+      src: "/img/logo.jpg",
       width: 1,
       height: 1 
     },    
@@ -215,12 +215,12 @@ export const photos = [
       height: 3.8 
     },    
     {
-      src: "/img/diegosilang-mam-oltiveros.png",
+      src: "/img/diegosilang-mam-oltiveros.jpg",
       width: 2.9,
       height: 3.8 
     },       
     {
-      src: "/img/logo.png",
+      src: "/img/logo.jpg",
       width: 1,
       height: 1 
     },    
@@ -230,12 +230,12 @@ export const photos = [
       height: 3.8 
     },    
     {
-      src: "/img/magsaysay-mam-soriente.png",
+      src: "/img/magsaysay-mam-soriente.jpg",
       width: 2.9,
       height: 3.8 
     },        
     {
-      src: "/img/logo.png",
+      src: "/img/logo.jpg",
       width: 1,
       height: 1 
     },    
@@ -245,12 +245,12 @@ export const photos = [
       height: 3.8 
     },    
     {
-      src: "/img/osmena-sir-mendoza.png",
+      src: "/img/osmena-sir-mendoza.jpg",
       width: 2.9,
       height: 3.8 
     },         
     {
-      src: "/img/logo.png",
+      src: "/img/logo.jpg",
       width: 1,
       height: 1 
     },    
@@ -260,12 +260,12 @@ export const photos = [
       height: 3.8 
     },    
     {
-      src: "/img/lapulapu-sir-sioson.png",
+      src: "/img/lapulapu-sir-sioson.jpg",
       width: 2.9,
       height: 3.8 
     },      
     {
-      src: "/img/logo.png",
+      src: "/img/logo.jpg",
       width: 1,
       height: 1 
     },    
@@ -275,7 +275,7 @@ export const photos = [
       height: 3.8 
     },    
     {
-      src: "/img/logo.png",
+      src: "/img/logo.jpg",
       width: 1,
       height: 1 
     },    
@@ -285,7 +285,7 @@ export const photos = [
       height: 3.8 
     },    
     {
-      src: "/img/logo.png",
+      src: "/img/logo.jpg",
       width: 1,
       height: 1 
     },    
@@ -295,12 +295,12 @@ export const photos = [
       height: 3.8 
     },    
     {
-      src: "/img/guerrero-mam-fuentes.png",
+      src: "/img/guerrero-mam-fuentes.jpg",
       width: 2.9,
       height: 3.8 
     },       
     {
-      src: "/img/logo.png",
+      src: "/img/logo.jpg",
       width: 1,
       height: 1 
     },    
@@ -310,7 +310,7 @@ export const photos = [
       height: 3.8 
     },    
     {
-      src: "/img/logo.png",
+      src: "/img/logo.jpg",
       width: 1,
       height: 1 
     },    
@@ -320,7 +320,7 @@ export const photos = [
       height: 3.8 
     },    
     {
-      src: "/img/logo.png",
+      src: "/img/logo.jpg",
       width: 1,
       height: 1 
     },    
@@ -330,12 +330,12 @@ export const photos = [
       height: 3.8 
     },    
     {
-      src: "/img/lakandula-mam-baltazar.png",
+      src: "/img/lakandula-mam-baltazar.jpg",
       width: 2.9,
       height: 3.8 
     },      
     {
-      src: "/img/lakandula-mam-angeles.png",
+      src: "/img/lakandula-mam-angeles.jpg",
       width: 2.9,
       height: 3.8 
     },      
