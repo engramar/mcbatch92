@@ -10,11 +10,6 @@ export const photos = [
       height: 3
     },    
     {
-      src: "/img/logo.jpg",
-      width: 1,
-      height: 1 
-    },    
-    {
       src: "/img/rizal.jpg",
       width: 2.9,
       height: 3.8 
