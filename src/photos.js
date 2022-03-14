@@ -225,6 +225,11 @@ export const photos = [
       height: 3.8 
     },     
     {
+      src: "/img/aquino1.jpg",
+      width: 1,
+      height: 1
+    },                    
+    {
       src: "/img/logo.jpg",
       width: 1,
       height: 1 
