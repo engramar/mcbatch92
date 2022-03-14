@@ -355,6 +355,11 @@ export const photos = [
       height: 3.8 
     },    
     {
+      src: "/img/abadsantos-mam-emata.jpg",
+      width: 2.9,
+      height: 3.8 
+    },       
+    {
       src: "/img/logo.jpg",
       width: 1,
       height: 1 
