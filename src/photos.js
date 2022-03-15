@@ -10,7 +10,7 @@ export const photos = [
       height: 3
     },    
     {
-      src: "/img/rizal-hero.jpg",
+      src: "/img/rizal-hero.png",
       width: 1,
       height: 1
     },                                      
@@ -65,7 +65,7 @@ export const photos = [
       height: 1 
     },    
     {
-      src: "/img/bonifacio-hero.jpg",
+      src: "/img/bonifacio-hero.png",
       width: 1,
       height: 1 
     },       
@@ -90,7 +90,7 @@ export const photos = [
       height: 1 
     },    
     {
-      src: "/img/mabini-hero.jpg",
+      src: "/img/mabini-hero.png",
       width: 1,
       height: 1 
     },       
@@ -115,7 +115,7 @@ export const photos = [
       height: 1 
     },    
     {
-      src: "/img/plaridel-hero.jpg",
+      src: "/img/plaridel-hero.png",
       width: 1,
       height: 1
     },       
