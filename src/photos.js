@@ -115,6 +115,11 @@ export const photos = [
       height: 1 
     },    
     {
+      src: "/img/plaridel-hero.jpg",
+      width: 1,
+      height: 1
+    },       
+    {
       src: "/img/plaridel.jpg",
       width: 2.9,
       height: 3.8 
