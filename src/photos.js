@@ -5,6 +5,11 @@ export const photos = [
       height: 1 
     },
     {
+      src: "/img/mc92-invitation.png",
+      width: 2.5,
+      height: 3
+    },    
+    {
       src: "/img/graduation.jpg",
       width: 2.9,
       height: 3
