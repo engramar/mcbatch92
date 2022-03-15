@@ -10,6 +10,11 @@ export const photos = [
       height: 3
     },    
     {
+      src: "/img/rizal-hero.jpg",
+      width: 1,
+      height: 1
+    },                                      
+    {
       src: "/img/rizal.jpg",
       width: 2.9,
       height: 3.8 
@@ -25,10 +30,15 @@ export const photos = [
       height: 3.8 
     },                    
     {
+      src: "/img/rizal-roll.jpg",
+      width: 2.9,
+      height: 3.8
+    },    
+    {
       src: "/img/rizal0.jpg",
       width: 5,
       height: 3.5 
-    },                    
+    },                          
     {
       src: "/img/rizal2.jpg",
       width: 5,
@@ -55,6 +65,11 @@ export const photos = [
       height: 1 
     },    
     {
+      src: "/img/bonifacio-hero.jpg",
+      width: 1,
+      height: 1 
+    },       
+    {
       src: "/img/bonifacio.jpg",
       width: 2.9,
       height: 3.8 
@@ -65,10 +80,20 @@ export const photos = [
       height: 3.8 
     },        
     {
+      src: "/img/bonifacio-roll.jpg",
+      width: 2.9,
+      height: 3.8 
+    },    
+    {
       src: "/img/logo.jpg",
       width: 1,
       height: 1 
     },    
+    {
+      src: "/img/mabini-hero.jpg",
+      width: 1,
+      height: 1 
+    },       
     {
       src: "/img/mabini.jpg",
       width: 2.9,
@@ -79,6 +104,11 @@ export const photos = [
       width: 2.9,
       height: 3.8 
     },        
+    {
+      src: "/img/mabini-roll.jpg",
+      width: 2.9,
+      height: 3.8 
+    },      
     {
       src: "/img/logo.jpg",
       width: 1,
