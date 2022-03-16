@@ -135,6 +135,11 @@ export const photos = [
       height: 3.8 
     },            
     {
+      src: "/img/plaridel-roll.png",
+      width: 2.9,
+      height: 3.8
+    },      
+    {
       src: "/img/logo.jpg",
       width: 1,
       height: 1 
@@ -150,6 +155,11 @@ export const photos = [
       height: 3.8 
     },        
     {
+      src: "/img/gomburza-roll.png",
+      width: 2.9,
+      height: 3.8
+    },      
+    {
       src: "/img/logo.jpg",
       width: 1,
       height: 1 
@@ -164,6 +174,11 @@ export const photos = [
       width: 2.9,
       height: 3.8 
     },       
+    {
+      src: "/img/quezon-roll.png",
+      width: 2.9,
+      height: 3.8
+    },      
     {
       src: "/img/logo.jpg",
       width: 1,
@@ -245,6 +260,11 @@ export const photos = [
       height: 3.8 
     },        
     {
+      src: "/img/malvar-roll.png",
+      width: 2.9,
+      height: 3.8
+    },      
+    {
       src: "/img/logo.jpg",
       width: 1,
       height: 1 
@@ -325,6 +345,11 @@ export const photos = [
       height: 3.8 
     },         
     {
+      src: "/img/osmena-roll.png",
+      width: 2.9,
+      height: 3.8
+    },       
+    {
       src: "/img/logo.jpg",
       width: 1,
       height: 1 
@@ -350,6 +375,11 @@ export const photos = [
       height: 3.8 
     },    
     {
+      src: "/img/rajasoliman-roll.png",
+      width: 2.9,
+      height: 3.8
+    },      
+    {
       src: "/img/logo.jpg",
       width: 1,
       height: 1 
@@ -374,6 +404,11 @@ export const photos = [
       width: 2.9,
       height: 3.8 
     },       
+    {
+      src: "/img/guerrero-roll.png",
+      width: 2.9,
+      height: 3.8
+    },        
     {
       src: "/img/logo.jpg",
       width: 1,
