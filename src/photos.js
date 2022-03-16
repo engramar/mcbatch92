@@ -195,6 +195,11 @@ export const photos = [
       height: 3.8 
     },         
     {
+      src: "/img/balagtas-roll.png",
+      width: 2.9,
+      height: 3.8
+    },       
+    {
       src: "/img/logo.jpg",
       width: 1,
       height: 1 
@@ -209,6 +214,11 @@ export const photos = [
       width: 2.9,
       height: 3.8 
     },             
+    {
+      src: "/img/delpilar-roll.png",
+      width: 2.9,
+      height: 3.8
+    },       
     {
       src: "/img/delpilar1.jpg",
       width: 1,
@@ -230,6 +240,11 @@ export const photos = [
       height: 3.8 
     },    
     {
+      src: "/img/jacinto-roll.png",
+      width: 2.9,
+      height: 3.8
+    },       
+    {
       src: "/img/logo.jpg",
       width: 1,
       height: 1 
@@ -244,6 +259,11 @@ export const photos = [
       width: 2.9,
       height: 3.8 
     },            
+    {
+      src: "/img/jaena-roll.png",
+      width: 2.9,
+      height: 3.8
+    },       
     {
       src: "/img/logo.jpg",
       width: 1,
@@ -279,6 +299,11 @@ export const photos = [
       width: 2.9,
       height: 3.8 
     },     
+    {
+      src: "/img/aquino-roll.png",
+      width: 2.9,
+      height: 3.8
+    },       
     {
       src: "/img/aquino1.jpg",
       width: 1,
@@ -383,12 +408,17 @@ export const photos = [
       src: "/img/logo.jpg",
       width: 1,
       height: 1 
-    },    
+    },        
     {
       src: "/img/dagohoy.jpg",
       width: 2.9,
       height: 3.8 
     },    
+    {
+      src: "/img/dagohoy-roll.png",
+      width: 2.9,
+      height: 3.8
+    },       
     {
       src: "/img/logo.jpg",
       width: 1,
@@ -414,6 +444,11 @@ export const photos = [
       width: 1,
       height: 1 
     },    
+    {
+      src: "/img/antonioluna-roll.png",
+      width: 2.9,
+      height: 3.8
+    },       
     {
       src: "/img/antonioluna.jpg",
       width: 2.9,
