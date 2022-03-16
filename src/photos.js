@@ -56,7 +56,7 @@ export const photos = [
     },          
     {
       src: "/img/rizal-pandemic.jpg",
-      width: 2,
+      width: 1.9,
       height: 1.8 
     },                        
     {
@@ -145,6 +145,11 @@ export const photos = [
       height: 1 
     },    
     {
+      src: "/img/gomburza-hero.png",
+      width: 2.5,
+      height: 2.3
+    },                                      
+    {
       src: "/img/gomburza.jpg",
       width: 2.9,
       height: 3.8 
@@ -164,6 +169,11 @@ export const photos = [
       width: 1,
       height: 1 
     },    
+    {
+      src: "/img/quezon-hero.png",
+      width: 1.5,
+      height: 1.3 
+    },         
     {
       src: "/img/quezon.jpg",
       width: 2.9,
@@ -185,6 +195,11 @@ export const photos = [
       height: 1 
     },    
     {
+      src: "/img/balagtas-hero.png",
+      width: 1.5,
+      height: 1.8 
+    },         
+    {
       src: "/img/balagtas.jpg",
       width: 2.9,
       height: 3.8 
@@ -204,6 +219,11 @@ export const photos = [
       width: 1,
       height: 1 
     },    
+    {
+      src: "/img/delpilar-hero.png",
+      width: 1.5,
+      height: 1.8 
+    },         
     {
       src: "/img/delpilar.jpg",
       width: 2.9,
@@ -235,6 +255,11 @@ export const photos = [
       height: 1 
     },    
     {
+      src: "/img/jacinto-hero.png",
+      width: 1,
+      height: 1 
+    },         
+    {
       src: "/img/jacinto.jpg",
       width: 2.9,
       height: 3.8 
@@ -248,7 +273,12 @@ export const photos = [
       src: "/img/logo.jpg",
       width: 1,
       height: 1 
-    },    
+    },   
+    {
+      src: "/img/jaena-hero.png",
+      width: 1.5,
+      height: 1.3 
+    },        
     {
       src: "/img/jaena.jpg",
       width: 2.9,
@@ -270,6 +300,11 @@ export const photos = [
       height: 1 
     },    
     {
+      src: "/img/malvar-hero.png",
+      width: 1,
+      height: 1 
+    },      
+    {
       src: "/img/malvar.jpg",
       width: 2.9,
       height: 3.8 
@@ -289,6 +324,11 @@ export const photos = [
       width: 1,
       height: 1 
     },    
+    {
+      src: "/img/aquino-hero.png",
+      width: 1,
+      height: 1 
+    },        
     {
       src: "/img/aquino.jpg",
       width: 2.9,
@@ -315,6 +355,11 @@ export const photos = [
       height: 1 
     },    
     {
+      src: "/img/recto-hero.png",
+      width: 1.5,
+      height: 1.4 
+    },       
+    {
       src: "/img/recto.jpg",
       width: 2.9,
       height: 3.8 
@@ -334,6 +379,11 @@ export const photos = [
       width: 1,
       height: 1 
     },    
+    {
+      src: "/img/diegosilang-hero.png",
+      width: 1,
+      height: 1 
+    },           
     {
       src: "/img/diegosilang.jpg",
       width: 2.9,
