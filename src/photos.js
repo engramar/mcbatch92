@@ -325,6 +325,11 @@ export const photos = [
       height: 3.8 
     },        
     {
+      src: "/img/recto-roll.png",
+      width: 2.9,
+      height: 3.8
+    },          
+    {
       src: "/img/logo.jpg",
       width: 1,
       height: 1 
@@ -340,6 +345,11 @@ export const photos = [
       height: 3.8 
     },       
     {
+      src: "/img/diegosilang-roll.png",
+      width: 2.9,
+      height: 3.8
+    },          
+    {
       src: "/img/logo.jpg",
       width: 1,
       height: 1 
@@ -354,6 +364,11 @@ export const photos = [
       width: 2.9,
       height: 3.8 
     },        
+    {
+      src: "/img/magsaysay-roll.png",
+      width: 2.9,
+      height: 3.8
+    },          
     {
       src: "/img/logo.jpg",
       width: 1,
@@ -389,6 +404,11 @@ export const photos = [
       width: 2.9,
       height: 3.8 
     },      
+    {
+      src: "/img/lapulapu-roll.png",
+      width: 2.9,
+      height: 3.8
+    },          
     {
       src: "/img/logo.jpg",
       width: 1,
