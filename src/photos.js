@@ -490,6 +490,11 @@ export const photos = [
       height: 3.8 
     },       
     {
+      src: "/img/abadsantos-roll.png",
+      width: 2.9,
+      height: 3.8
+    },        
+    {
       src: "/img/logo.jpg",
       width: 1,
       height: 1 
@@ -509,5 +514,10 @@ export const photos = [
       width: 2.9,
       height: 3.8 
     },      
+    {
+      src: "/img/lakandula-roll.png",
+      width: 2.9,
+      height: 3.8
+    },        
   ];
   
