@@ -465,15 +465,15 @@ export const photos = [
       height: 1 
     },    
     {
-      src: "/img/antonioluna-roll.png",
-      width: 2.9,
-      height: 3.8
-    },       
-    {
       src: "/img/antonioluna.jpg",
       width: 2.9,
       height: 3.8 
     },    
+    {
+      src: "/img/antonioluna-roll.png",
+      width: 2.9,
+      height: 3.8
+    },       
     {
       src: "/img/logo.jpg",
       width: 1,
