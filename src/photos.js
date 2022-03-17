@@ -405,9 +405,14 @@ export const photos = [
       height: 1 
     },    
     {
+      src: "/img/magsaysay-hero.png",
+      width: 2.5,
+      height: 3 
+    },           
+    {
       src: "/img/magsaysay.jpg",
-      width: 2.9,
-      height: 3.8 
+      width: 1,
+      height: 1 
     },    
     {
       src: "/img/magsaysay-mam-soriente.jpg",
@@ -424,6 +429,11 @@ export const photos = [
       width: 1,
       height: 1 
     },    
+    {
+      src: "/img/osmena-hero.png",
+      width: 2.5,
+      height: 3 
+    },           
     {
       src: "/img/osmena.jpg",
       width: 2.9,
@@ -445,6 +455,11 @@ export const photos = [
       height: 1 
     },    
     {
+      src: "/img/lapulapu-hero.png",
+      width: 1,
+      height: 1
+    },     
+    {
       src: "/img/lapulapu.jpg",
       width: 2.9,
       height: 3.8 
@@ -465,6 +480,11 @@ export const photos = [
       height: 1 
     },    
     {
+      src: "/img/rajasoliman-hero.png",
+      width: 1,
+      height: 1 
+    },               
+    {
       src: "/img/rajasoliman.jpg",
       width: 2.9,
       height: 3.8 
@@ -478,12 +498,17 @@ export const photos = [
       src: "/img/logo.jpg",
       width: 1,
       height: 1 
-    },        
+    },    
+    {
+      src: "/img/dagohoy-hero.png",
+      width: 1,
+      height: 1 
+    },          
     {
       src: "/img/dagohoy.jpg",
       width: 2.9,
       height: 3.8 
-    },    
+    },                 
     {
       src: "/img/dagohoy-roll.png",
       width: 2.9,
@@ -494,6 +519,11 @@ export const photos = [
       width: 1,
       height: 1 
     },    
+    {
+      src: "/img/guerrero-hero.png",
+      width: 1.3,
+      height: 1.9 
+    },       
     {
       src: "/img/guerrero.jpg",
       width: 2.9,
@@ -515,6 +545,11 @@ export const photos = [
       height: 1 
     },    
     {
+      src: "/img/antonioluna-hero.png",
+      width: 1.3,
+      height: 1.2 
+    },     
+    {
       src: "/img/antonioluna.jpg",
       width: 2.9,
       height: 3.8 
@@ -529,6 +564,11 @@ export const photos = [
       width: 1,
       height: 1 
     },    
+    {
+      src: "/img/abadsantos-hero.png",
+      width: 1,
+      height: 1
+    },     
     {
       src: "/img/abadsantos.jpg",
       width: 2.9,
@@ -548,6 +588,11 @@ export const photos = [
       src: "/img/logo.jpg",
       width: 1,
       height: 1 
+    },    
+    {
+      src: "/img/lakandula-hero.png",
+      width: 2.9,
+      height: 3.8
     },    
     {
       src: "/img/lakandula.jpg",
