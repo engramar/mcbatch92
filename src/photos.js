@@ -490,6 +490,11 @@ export const photos = [
       height: 3.8 
     },    
     {
+      src: "/img/rajasoliman-mam-vellila.jpg",
+      width: 1,
+      height: 1
+    },        
+    {
       src: "/img/rajasoliman-roll.png",
       width: 2.9,
       height: 3.8
@@ -508,7 +513,12 @@ export const photos = [
       src: "/img/dagohoy.jpg",
       width: 2.9,
       height: 3.8 
-    },                 
+    },          
+    {
+      src: "/img/dagohoy-mam-natividad.jpg",
+      width: 1,
+      height: 1
+    },        
     {
       src: "/img/dagohoy-roll.png",
       width: 2.9,
@@ -554,6 +564,11 @@ export const photos = [
       width: 2.9,
       height: 3.8 
     },    
+    {
+      src: "/img/antonioluna-mam-lappay.jpg",
+      width: 1,
+      height: 1
+    },        
     {
       src: "/img/antonioluna-roll.png",
       width: 2.9,
@@ -613,6 +628,81 @@ export const photos = [
       src: "/img/lakandula-roll.png",
       width: 2.9,
       height: 3.8
+    },        
+    {
+      src: "/img/logo-uae.png",
+      width: 1,
+      height: 1 
+    },    
+    {
+      src: "/img/uae1.jpg",
+      width: 3,
+      height: 2 
+    },  
+    {
+      src: "/img/uae2.jpg",
+      width: 4,
+      height: 2 
+    },  
+    {
+      src: "/img/uae3.jpg",
+      width: 4,
+      height: 2 
+    },                
+    {
+      src: "/img/uae4.jpg",
+      width: 3,
+      height: 2 
+    },  
+    {
+      src: "/img/uae5.jpg",
+      width: 4,
+      height: 2 
+    },  
+    {
+      src: "/img/uae6.jpg",
+      width: 3.5,
+      height: 2 
+    },              
+    {
+      src: "/img/uae7.jpg",
+      width: 3,
+      height: 2 
+    },              
+    {
+      src: "/img/logo-aus.png",
+      width: 1,
+      height: 1 
+    },  
+    {
+      src: "/img/aus2.png",
+      width: 2,
+      height: 1.5 
+    },        
+    {
+      src: "/img/aus3.png",
+      width: 2,
+      height: 1.5 
+    },        
+    {
+      src: "/img/aus1.png",
+      width: 3,
+      height: 2  
+    },        
+    {
+      src: "/img/aus4.png",
+      width: 2,
+      height: 1.5 
+    },        
+    {
+      src: "/img/aus5.png",
+      width: 2,
+      height: 1.5 
+    },        
+    {
+      src: "/img/aus6.png",
+      width: 2,
+      height: 1.5 
     },        
   ];
   
