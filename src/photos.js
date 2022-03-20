@@ -704,5 +704,10 @@ export const photos = [
       width: 2,
       height: 1.5 
     },        
+    {
+      src: "/img/aus7.png",
+      width: 2,
+      height: 1.5 
+    },      
   ];
   
