@@ -8,7 +8,12 @@ export const photos = [
       src: "/img/batch92.jpg",
       width: 2,
       height: 1 
-    },    
+    },  
+    {
+      src: "/img/batch92x1.png",
+      width: 1,
+      height: 1.2 
+    },        
     {
       src: "/img/mc92-invitation.png",
       width: 2.5,
