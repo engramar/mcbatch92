@@ -165,6 +165,51 @@ export const photos = [
       height: 3.8
     },      
     {
+      src: "/img/gomburzax1.jpg",
+      width: 1.6,
+      height: 1
+    },          
+    {
+      src: "/img/gomburzax2.jpg",
+      width: 1.6,
+      height: 1
+    },          
+    {
+      src: "/img/gomburzax3.jpg",
+      width: 1.6,
+      height: 1
+    },          
+    {
+      src: "/img/gomburzax4.jpg",
+      width: 1.6,
+      height: 1
+    },          
+    {
+      src: "/img/gomburzax5.jpg",
+      width: 1.6,
+      height: 1
+    },          
+    {
+      src: "/img/gomburzax6.jpg",
+      width: 1.6,
+      height: 1
+    },          
+    {
+      src: "/img/gomburzax7.jpg",
+      width: 1.6,
+      height: 1
+    },          
+    {
+      src: "/img/gomburzax8.jpg",
+      width: 1.8,
+      height: 1
+    },          
+    {
+      src: "/img/gomburzax9.jpg",
+      width: 1.7,
+      height: 1
+    },              
+    {
       src: "/img/logo.jpg",
       width: 1,
       height: 1 
@@ -374,6 +419,16 @@ export const photos = [
       width: 2.9,
       height: 3.8
     },          
+    {
+      src: "/img/rectox1.jpg",
+      width: 1,
+      height: 1
+    },              
+    {
+      src: "/img/rectox2.jpg",
+      width: 1,
+      height: 1
+    },              
     {
       src: "/img/logo.jpg",
       width: 1,
