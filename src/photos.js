@@ -23,7 +23,67 @@ export const photos = [
       src: "/img/graduation.jpg",
       width: 2.9,
       height: 3
-    },    
+    },  
+    {
+      src: "/img/mambelza1.png",
+      width: 1.3,
+      height: 1
+    },        
+    {
+      src: "/img/mambelza2.png",
+      width: 1,
+      height: 1.1
+    },        
+    {
+      src: "/img/guro9.png",
+      width: 1,
+      height: 1
+    },        
+    {
+      src: "/img/guro10.png",
+      width: 1,
+      height: 1
+    },  
+    {
+      src: "/img/guro1.png",
+      width: 1,
+      height: 1
+    },        
+    {
+      src: "/img/guro2.png",
+      width: 1,
+      height: 1
+    },            
+    {
+      src: "/img/guro3.png",
+      width: 1,
+      height: 1
+    },            
+    {
+      src: "/img/guro4.png",
+      width: 1,
+      height: 1
+    },            
+    {
+      src: "/img/guro5.png",
+      width: 1,
+      height: 1
+    },            
+    {
+      src: "/img/guro6.png",
+      width: 1,
+      height: 1
+    },            
+    {
+      src: "/img/guro7.png",
+      width: 1,
+      height: 1
+    },            
+    {
+      src: "/img/guro8.png",
+      width: 1,
+      height: 1
+    },            
     {
       src: "/img/rizal-hero.png",
       width: 1,
