@@ -5,6 +5,16 @@ export const photos = [
       height: 1 
     },
     {
+      src: "/img/batch92.jpg",
+      width: 2,
+      height: 1 
+    },    
+    {
+      src: "/img/batch92X1.jpg",
+      width: 1,
+      height: 1.1 
+    },
+    {
       src: "/img/mc92-invitation.png",
       width: 2.5,
       height: 3
