@@ -490,6 +490,11 @@ export const photos = [
       height: 3.8
     },          
     {
+      src: "/img/recto-js.png",
+      width: 1.5,
+      height: 1
+    },     
+    {
       src: "/img/rectox1.jpg",
       width: 1,
       height: 1
@@ -498,7 +503,57 @@ export const photos = [
       src: "/img/rectox2.jpg",
       width: 1,
       height: 1
-    },              
+    },    
+    {
+      src: "/img/recto1.png",
+      width: 1,
+      height: 1.5
+    },      
+    {
+      src: "/img/recto2.png",
+      width: 1.5,
+      height: 1
+    },                      
+    {
+      src: "/img/recto3.png",
+      width: 1.5,
+      height: 1
+    },                      
+    {
+      src: "/img/recto4.png",
+      width: 1,
+      height: 1.2
+    },                      
+    {
+      src: "/img/recto5.png",
+      width: 1,
+      height: 1
+    },                      
+    {
+      src: "/img/recto6.png",
+      width: 1.5,
+      height: 1
+    },                      
+    {
+      src: "/img/recto7.png",
+      width: 1.5,
+      height: 1
+    },                      
+    {
+      src: "/img/recto8.png",
+      width: 1.5,
+      height: 1
+    },    
+    {
+      src: "/img/recto9.png",
+      width: 1.5,
+      height: 1
+    },                
+    {
+      src: "/img/recto10.png",
+      width: 1.5,
+      height: 1
+    },                    
     {
       src: "/img/logo.jpg",
       width: 1,
