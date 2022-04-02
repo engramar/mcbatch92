@@ -36,52 +36,52 @@ export const photos = [
     },        
     {
       src: "/img/guro9.png",
-      width: 1,
+      width: .8,
       height: 1
     },        
     {
       src: "/img/guro10.png",
-      width: 1,
+      width: .8,
       height: 1
     },  
     {
       src: "/img/guro1.png",
-      width: 1,
+      width: .8,
       height: 1
     },        
     {
       src: "/img/guro2.png",
-      width: 1,
+      width: .8,
       height: 1
     },            
     {
       src: "/img/guro3.png",
-      width: 1,
+      width: .8,
       height: 1
     },            
     {
       src: "/img/guro4.png",
-      width: 1,
+      width: .8,
       height: 1
     },            
     {
       src: "/img/guro5.png",
-      width: 1,
+      width: .8,
       height: 1
     },            
     {
       src: "/img/guro6.png",
-      width: 1,
+      width: .8,
       height: 1
     },            
     {
       src: "/img/guro7.png",
-      width: 1,
+      width: .8,
       height: 1
     },            
     {
       src: "/img/guro8.png",
-      width: 1,
+      width: .8,
       height: 1
     },            
     {
@@ -108,6 +108,16 @@ export const photos = [
       src: "/img/rizal-roll.jpg",
       width: 2.9,
       height: 3.8
+    },    
+    {
+      src: "/img/rizal-class1.png",
+      width: 1,
+      height: 1
+    },    
+    {
+      src: "/img/rizal-class2.png",
+      width: 1,
+      height: 1
     },    
     {
       src: "/img/rizal0.jpg",
@@ -160,6 +170,16 @@ export const photos = [
       height: 3.8 
     },    
     {
+      src: "/img/bonifacio-class1.png",
+      width: 1,
+      height: 1
+    },    
+    {
+      src: "/img/bonifacio-class2.png",
+      width: 1,
+      height: 1
+    },    
+    {
       src: "/img/logo.jpg",
       width: 1,
       height: 1 
@@ -184,6 +204,16 @@ export const photos = [
       width: 2.9,
       height: 3.8 
     },      
+    {
+      src: "/img/mabini-class1.png",
+      width: 1,
+      height: 1
+    },    
+    {
+      src: "/img/mabini-class2.png",
+      width: 1,
+      height: 1
+    },        
     {
       src: "/img/logo.jpg",
       width: 1,
@@ -210,6 +240,16 @@ export const photos = [
       height: 3.8
     },      
     {
+      src: "/img/plaridel-class1.png",
+      width: 1,
+      height: 1
+    },    
+    {
+      src: "/img/plaridel-class2.png",
+      width: 1,
+      height: 1
+    },        
+    {
       src: "/img/logo.jpg",
       width: 1,
       height: 1 
@@ -234,6 +274,16 @@ export const photos = [
       width: 2.9,
       height: 3.8
     },      
+    {
+      src: "/img/gomburza-class1.png",
+      width: 1,
+      height: 1
+    },    
+    {
+      src: "/img/gomburza-class2.png",
+      width: 1,
+      height: 1
+    },     
     {
       src: "/img/gomburzax1.jpg",
       width: 1.6,
@@ -305,6 +355,16 @@ export const photos = [
       height: 3.8
     },      
     {
+      src: "/img/quezon-class1.png",
+      width: 1,
+      height: 1
+    },    
+    {
+      src: "/img/quezon-class2.png",
+      width: 1,
+      height: 1
+    },        
+    {
       src: "/img/logo.jpg",
       width: 1,
       height: 1 
@@ -329,6 +389,16 @@ export const photos = [
       width: 2.9,
       height: 3.8
     },       
+    {
+      src: "/img/balagtas-class1.png",
+      width: 1,
+      height: 1
+    },    
+    {
+      src: "/img/balagtas-class2.png",
+      width: 1,
+      height: 1
+    },      
     {
       src: "/img/logo.jpg",
       width: 1,
@@ -385,6 +455,16 @@ export const photos = [
       height: 3.8
     },       
     {
+      src: "/img/jacinto-class1.png",
+      width: 1,
+      height: 1
+    },    
+    {
+      src: "/img/jacinto-class2.png",
+      width: 1,
+      height: 1
+    },    
+    {
       src: "/img/logo.jpg",
       width: 1,
       height: 1 
@@ -409,6 +489,16 @@ export const photos = [
       width: 2.9,
       height: 3.8
     },       
+    {
+      src: "/img/jaena-class1.png",
+      width: 1,
+      height: 1
+    },    
+    {
+      src: "/img/jaena-class2.png",
+      width: 1,
+      height: 1
+    },        
     {
       src: "/img/logo.jpg",
       width: 1,
@@ -605,6 +695,16 @@ export const photos = [
       height: 3.8
     },          
     {
+      src: "/img/magsaysay-class1.png",
+      width: 1,
+      height: 1
+    },    
+    {
+      src: "/img/magsaysay-class2.png",
+      width: 1.3,
+      height: .8
+    },        
+    {
       src: "/img/logo.jpg",
       width: 1,
       height: 1 
@@ -629,6 +729,16 @@ export const photos = [
       width: 2.9,
       height: 3.8
     },       
+    {
+      src: "/img/osmena-class1.png",
+      width: 1,
+      height: 1
+    },    
+    {
+      src: "/img/osmena-class2.png",
+      width: 1.3,
+      height: 1
+    },        
     {
       src: "/img/logo.jpg",
       width: 1,
@@ -655,6 +765,16 @@ export const photos = [
       height: 3.8
     },          
     {
+      src: "/img/lapulapu-class1.png",
+      width: 1,
+      height: 1
+    },    
+    {
+      src: "/img/lapulapu-class2.png",
+      width: 1,
+      height: 1
+    },        
+    {
       src: "/img/logo.jpg",
       width: 1,
       height: 1 
@@ -679,6 +799,11 @@ export const photos = [
       width: 2.9,
       height: 3.8
     },      
+    {
+      src: "/img/rajasoliman-class1.png",
+      width: 1.7,
+      height: 1
+    },        
     {
       src: "/img/logo.jpg",
       width: 1,
@@ -705,6 +830,16 @@ export const photos = [
       height: 3.8
     },       
     {
+      src: "/img/dagohoy-class1.png",
+      width: 1,
+      height: 1
+    },    
+    {
+      src: "/img/dagohoy-class2.png",
+      width: 1,
+      height: 1
+    },    
+    {
       src: "/img/logo.jpg",
       width: 1,
       height: 1 
@@ -729,6 +864,16 @@ export const photos = [
       width: 2.9,
       height: 3.8
     },        
+    {
+      src: "/img/guerrero-class1.png",
+      width: 1,
+      height: 1
+    },    
+    {
+      src: "/img/guerrero-class2.png",
+      width: 1.7,
+      height: 1
+    },    
     {
       src: "/img/logo.jpg",
       width: 1,
@@ -755,6 +900,16 @@ export const photos = [
       height: 3.8
     },       
     {
+      src: "/img/antonioluna-class1.png",
+      width: 1,
+      height: 1
+    },    
+    {
+      src: "/img/antonioluna-class2.png",
+      width: 1.7,
+      height: 1
+    },      
+    {
       src: "/img/logo.jpg",
       width: 1,
       height: 1 
@@ -779,6 +934,16 @@ export const photos = [
       width: 2.9,
       height: 3.8
     },        
+    {
+      src: "/img/abadsantos-class1.png",
+      width: 1,
+      height: 1
+    },    
+    {
+      src: "/img/abadsantos-class2.png",
+      width: 1.4,
+      height: 1
+    },    
     {
       src: "/img/logo.jpg",
       width: 1,
@@ -808,6 +973,11 @@ export const photos = [
       src: "/img/lakandula-roll.png",
       width: 2.9,
       height: 3.8
+    },        
+    {
+      src: "/img/lakandula-class1.png",
+      width: 1,
+      height: 1
     },        
     {
       src: "/img/logo-uae.png",
