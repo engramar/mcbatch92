@@ -10,6 +10,16 @@ export const photos = [
       height: 1 
     },  
     {
+      src: "/img/the-bamboo1.png",
+      width: 2,
+      height: 1
+    },  
+    {
+      src: "/img/the-bamboo2.png",
+      width: 1,
+      height: 1
+    },    
+    {
       src: "/img/batch92x1.png",
       width: 1,
       height: 1.2 
@@ -23,7 +33,7 @@ export const photos = [
       src: "/img/graduation.jpg",
       width: 2.9,
       height: 3
-    },  
+    },    
     {
       src: "/img/mambelza1.png",
       width: 1.3,
@@ -83,7 +93,12 @@ export const photos = [
       src: "/img/guro8.png",
       width: .8,
       height: 1
-    },            
+    },    
+    {
+      src: "/img/guro.png",
+      width: 1.7,
+      height: 1
+    },                
     {
       src: "/img/rizal-hero.png",
       width: 1,
@@ -143,7 +158,37 @@ export const photos = [
       src: "/img/rizal1.jpg",
       width: 5,
       height: 3.5 
+    },     
+    {
+      src: "/img/rizal5.png",
+      width: 1.7,
+      height: 1 
+    },     
+    {
+      src: "/img/rizal7.png",
+      width: 1.7,
+      height: 1 
+    },           
+    {
+      src: "/img/rizal6.png",
+      width: 1.7,
+      height: 1 
+    },                  
+    {
+      src: "/img/rizal4.png",
+      width: 1.5,
+      height: 2 
+    },                        
+    {
+      src: "/img/rizal-tropa1.png",
+      width: 2,
+      height: 1.1 
     },                    
+    {
+      src: "/img/rizal-tropa2.png",
+      width: 2,
+      height: 1.2 
+    },                        
     {
       src: "/img/logo.jpg",
       width: 1,
