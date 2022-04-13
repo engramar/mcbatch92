@@ -190,6 +190,56 @@ export const photos = [
       height: 1.2 
     },                        
     {
+      src: "/img/rizal-14apr-1.png",
+      width: 1.5,
+      height: 1 
+    },                        
+    {
+      src: "/img/rizal-14apr-2.png",
+      width: 1.5,
+      height: 1 
+    },                        
+    {
+      src: "/img/rizal-14apr-3.png",
+      width: 1.5,
+      height: 1 
+    },                        
+    {
+      src: "/img/rizal-14apr-4.png",
+      width: 1.5,
+      height: 1 
+    },                        
+    {
+      src: "/img/rizal-14apr-5.png",
+      width: 1.5,
+      height: 1 
+    },                        
+    {
+      src: "/img/rizal-14apr-6.png",
+      width: 1.5,
+      height: 1 
+    },                        
+    {
+      src: "/img/rizal-14apr-7.png",
+      width: 1.5,
+      height: 1 
+    },                        
+    {
+      src: "/img/rizal-14apr-8.png",
+      width: 1.5,
+      height: 1 
+    },                        
+    {
+      src: "/img/rizal-14apr-9.png",
+      width: 1.5,
+      height: 1 
+    },                        
+    {
+      src: "/img/rizal-14apr-10.png",
+      width: 1.5,
+      height: 1 
+    },                        
+    {
       src: "/img/logo.jpg",
       width: 1,
       height: 1 
@@ -470,6 +520,21 @@ export const photos = [
       height: 3.8
     },       
     {
+      src: "/img/del-pilar-class-1.png",
+      width: 1,
+      height: 1
+    },   
+    {
+      src: "/img/del-pilar-class-2.png",
+      width: 1,
+      height: 1
+    },   
+    {
+      src: "/img/del-pilar-class-3.png",
+      width: 3,
+      height: .8
+    },   
+    {
       src: "/img/delpilar1.jpg",
       width: 1,
       height: 1 
@@ -570,6 +635,21 @@ export const photos = [
       height: 3.8
     },      
     {
+      src: "/img/malvar-class-1.png",
+      width: 1,
+      height: 1
+    },    
+    {
+      src: "/img/malvar-class-2.png",
+      width: 1,
+      height: 1
+    },    
+    {
+      src: "/img/malvar-class-3.png",
+      width: 2,
+      height: 1
+    },    
+    {
       src: "/img/logo.jpg",
       width: 1,
       height: 1 
@@ -595,10 +675,20 @@ export const photos = [
       height: 3.8
     },       
     {
+      src: "/img/aquino-class-1.png",
+      width: 1,
+      height: 1
+    },        
+    {
+      src: "/img/aquino-class-2.png",
+      width: 1,
+      height: 1
+    },        
+    {
       src: "/img/aquino1.jpg",
       width: 1,
       height: 1
-    },                    
+    },                        
     {
       src: "/img/logo.jpg",
       width: 1,
@@ -624,6 +714,21 @@ export const photos = [
       width: 2.9,
       height: 3.8
     },          
+    {
+      src: "/img/recto-class-1.png",
+      width: 1,
+      height: 1
+    },   
+    {
+      src: "/img/recto-class-2.png",
+      width: 1.5,
+      height: 1
+    },   
+    {
+      src: "/img/recto-class-3.png",
+      width: 1.5,
+      height: 1
+    },   
     {
       src: "/img/recto-js.png",
       width: 1.5,
@@ -714,6 +819,21 @@ export const photos = [
       width: 2.9,
       height: 3.8
     },          
+    {
+      src: "/img/diego-silang-class-1.png",
+      width: 1,
+      height: 1
+    },   
+    {
+      src: "/img/diego-silang-class-2.png",
+      width: 1.3,
+      height: 1
+    },   
+    {
+      src: "/img/diego-silang-class-3.png",
+      width: 1.5,
+      height: 1
+    },   
     {
       src: "/img/logo.jpg",
       width: 1,
