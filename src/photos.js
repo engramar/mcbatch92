@@ -940,6 +940,101 @@ export const photos = [
       height: 1
     },        
     {
+      src: "/img/TeamLapu-Lapu/Photos_Images/277455676_560798678555430_7776480816453768999_n.jpg",
+      width: 1.5,
+      height: 1
+    },
+    {
+      src: "/img/TeamLapu-Lapu/Photos_Images/277457132_1081325979176837_6442302951511473127_n.jpg",
+      width: 1.5,
+      height: 1
+    },
+    {
+      src: "/img/TeamLapu-Lapu/Photos_Images/277463330_723547328661453_5174408638938074477_n.jpg",
+      width: 1.8,
+      height: 1
+    },
+    {
+      src: "/img/TeamLapu-Lapu/Photos_Images/277611752_2536790533121766_3096503567110387598_n.jpg",
+      width: 1.5,
+      height: 1
+    },
+    {
+      src: "/img/TeamLapu-Lapu/Photos_Images/277614532_784091475900180_887903687599784504_n.jpg",
+      width: 1,
+      height: 1
+    },
+    {
+      src: "/img/TeamLapu-Lapu/Photos_Images/277615234_701791884279381_1036981209011046906_n.jpg",
+      width: 1.5,
+      height: 1
+    },
+    {
+      src: "/img/TeamLapu-Lapu/Photos_Images/277615648_686564745879509_8047419896415580656_n.jpg",
+      width: 1.3,
+      height: 1
+    },
+    {
+      src: "/img/TeamLapu-Lapu/Photos_Images/277815696_527727835522520_8003644982008027149_n.jpg",
+      width: 1.5,
+      height: 1
+    },
+    {
+      src: "/img/TeamLapu-Lapu/Photos_Images/277833847_1157453128365398_5534018422403009043_n.jpg",
+      width: 1,
+      height: 1
+    },
+    {
+      src: "/img/TeamLapu-Lapu/Photos_Images/277919623_379412744059038_2938317854560979574_n.jpg",
+      width: 1.5,
+      height: 1
+    },
+    {
+      src: "/img/TeamLapu-Lapu/Photos_Images/277940176_511607940425833_1249527650824289056_n.jpg",
+      width: 1.5,
+      height: 1
+    },
+    {
+      src: "/img/TeamLapu-Lapu/Photos_Images/277971303_725917978582500_8430968575112487755_n.png",
+      width: 1.5,
+      height: 1
+    },
+    {
+      src: "/img/TeamLapu-Lapu/Photos_Images/277995137_338023015060518_3081899169379522399_n.jpg",
+      width: 1.5,
+      height: 1
+    },
+    {
+      src: "/img/TeamLapu-Lapu/Photos_Images/278011699_1515705022158568_768479014558117344_n.jpg",
+      width: 1,
+      height: 1
+    },
+    {
+      src: "/img/TeamLapu-Lapu/Photos_Images/278049901_1054495525416394_8744573042040719703_n.jpg",
+      width: 1,
+      height: 1
+    },
+    {
+      src: "/img/TeamLapu-Lapu/Photos_Images/278072221_1654965248195920_4728197841426451574_n.jpg",
+      width: 1.5,
+      height: 1
+    },
+    {
+      src: "/img/TeamLapu-Lapu/Photos_Images/278085597_4895070607227371_7679005835237277075_n.jpg",
+      width: 1.5,
+      height: 1
+    },
+    {
+      src: "/img/TeamLapu-Lapu/Photos_Images/278242992_1383010962120612_6038744431325961141_n.jpg",
+      width: 1.5,
+      height: 1
+    },
+    {
+      src: "/img/TeamLapu-Lapu/Photos_Images/278366284_355085729905042_5297412095492934242_n.jpg",
+      width: 1.5,
+      height: 1
+    },
+    {
       src: "/img/logo.jpg",
       width: 1,
       height: 1 
@@ -1504,6 +1599,106 @@ export const photos = [
       width: 1,
       height: 1
     },        
+    {
+      src: "/img/TeamLakandula/Photos_Images/277964992_1128277031282463_2497460906768118489_n.jpg",
+      width: 1.5,
+      height: 1
+    },
+    {
+      src: "/img/TeamLakandula/Photos_Images/278011705_558433522212476_437176155313993625_n.jpg",
+      width: 1.5,
+      height: 1
+    },
+    {
+      src: "/img/TeamLakandula/Photos_Images/278020299_282944370692130_5358845145118849168_n.jpg",
+      width: 1.5,
+      height: 1
+    },
+    {
+      src: "/img/TeamLakandula/Photos_Images/278024940_347731300520775_1790168436561122879_n.jpg",
+      width: 1.5,
+      height: 1
+    },
+    {
+      src: "/img/TeamLakandula/Photos_Images/278073693_288930023428414_3663983158624357562_n.jpg",
+      width: 1.5,
+      height: 1
+    },
+    {
+      src: "/img/TeamLakandula/Photos_Images/278086839_689209545563591_8146462872017342939_n.jpg",
+      width: 1.5,
+      height: 1
+    },
+    {
+      src: "/img/TeamLakandula/Photos_Images/278100373_2854293771374397_6335601945524211783_n.jpg",
+      width: 1.5,
+      height: 1
+    },
+    {
+      src: "/img/TeamLakandula/Photos_Images/278109064_1908587159529794_342897322084565426_n.jpg",
+      width: 1.5,
+      height: 1
+    },
+    {
+      src: "/img/TeamLakandula/Photos_Images/278131849_709640993540306_5089288321541040153_n.jpg",
+      width: 1.5,
+      height: 1
+    },
+    {
+      src: "/img/TeamLakandula/Photos_Images/278142217_707762913699158_8562271494086721946_n.jpg",
+      width: 1.5,
+      height: 1
+    },
+    {
+      src: "/img/TeamLakandula/Photos_Images/278157435_1167265490689117_6386677960373966857_n.jpg",
+      width: 1.5,
+      height: 1
+    },
+    {
+      src: "/img/TeamLakandula/Photos_Images/278196089_5052087911551799_2663751802184203430_n.jpg",
+      width: 1.5,
+      height: 1
+    },
+    {
+      src: "/img/TeamLakandula/Photos_Images/278300928_348570327292790_5470053166675608_n.jpg",
+      width: 1,
+      height: 1
+    },
+    {
+      src: "/img/TeamLakandula/Photos_Images/278359747_507877637479511_7907817492329182253_n.jpg",
+      width: 1.8,
+      height: 1
+    },
+    {
+      src: "/img/TeamLakandula/Photos_Images/278370808_2138726649624145_4215132136382278780_n.jpg",
+      width: 1,
+      height: 1
+    },
+    {
+      src: "/img/TeamLakandula/Photos_Images/278386644_1016296059303542_2080728801144399447_n.jpg",
+      width: 1.5,
+      height: 1
+    },
+    {
+      src: "/img/TeamLakandula/Photos_Images/278403173_488594876282523_9073710368996802230_n.jpg",
+      width: 1.5,
+      height: 1
+    },
+    {
+      src: "/img/TeamLakandula/Photos_Images/278441422_2232872536864948_32207916965023048_n.jpg",
+      width: 1.5,
+      height: 1
+    },
+    {
+      src: "/img/TeamLakandula/Photos_Images/278497610_558705545532995_2156455427908018968_n.jpg",
+      width: 1.5,
+      height: 1
+    },
+    {
+      src: "/img/TeamLakandula/Photos_Images/278561249_563445678298636_1400551952624623364_n.jpg",
+      width: 1.5,
+      height: 1
+    },   
     {
       src: "/img/logo-uae.png",
       width: 1,
