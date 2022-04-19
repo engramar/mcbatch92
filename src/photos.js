@@ -1570,7 +1570,17 @@ export const photos = [
       height: 1.5 
     },        
     {
+      src: "/img/278660421_359695066090019_7332327342957413586_n.jpg",
+      width: 2,
+      height: 1.5 
+    },     
+    {
       src: "/img/aus5.png",
+      width: 2,
+      height: 1.5 
+    },   
+    {
+      src: "/img/278334921_1657204337972063_2033670756105040930_n.jpg",
       width: 2,
       height: 1.5 
     },        
@@ -1579,6 +1589,11 @@ export const photos = [
       width: 2,
       height: 1.5 
     },        
+    {
+      src: "/img/277892301_990719958247361_7837643087891714135_n.jpg",
+      width: 2,
+      height: 1.2 
+    },     
     {
       src: "/img/aus7.png",
       width: 2,
